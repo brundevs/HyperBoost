@@ -29,6 +29,8 @@ Descreva o que aconteceu e sua versão do Windows. Antes de anexar relatórios, 
 
 **Downloads ainda não estão disponíveis nesta página.** Instalador e portátil serão publicados em Releases após a validação correspondente. Este repositório reúne documentação pública e feedback; o código do aplicativo permanece privado.
 
+[Como as atualizações serão publicadas](RELEASES.md).
+
 As novidades serão anunciadas nas Discussions e no histórico de versões. Não há garantia de aumento de FPS ou de velocidade de Internet.
 
 ## Estado atual
