@@ -1,0 +1,25 @@
+name: Reportar bug
+description: Conte o que falhou no HyperBoost.
+title: "[Bug]: "
+body:
+  - type: markdown
+    attributes:
+      value: Não envie senhas, tokens, e-mails, caminhos pessoais ou relatórios sem revisão.
+  - type: input
+    id: version
+    attributes:
+      label: Versão do HyperBoost e do Windows
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Como reproduzir
+      description: Qual ferramenta, passos, resultado esperado e resultado observado?
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Capturas ou detalhes adicionais
+      description: Revise informações pessoais antes de anexar.

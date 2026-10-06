@@ -1,0 +1,17 @@
+name: Sugerir melhoria
+description: Ajude a escolher as próximas melhorias.
+title: "[Melhoria]: "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: O que você gostaria de melhorar?
+      description: Explique a necessidade e a ferramenta relacionada.
+    validations:
+      required: true
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Sua sugestão
+    validations:
+      required: true
