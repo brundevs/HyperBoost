@@ -1,10 +1,10 @@
 <div align="center">
   <img src="assets/hyperboost-white.svg" alt="Logo branca do HyperBoost" width="128" height="128">
   <h1>HyperBoost</h1>
-  <p><strong>Ferramentas avançadas e gratuitas para limpar, analisar e cuidar do seu Windows.</strong></p>
-  <p>Organize o sistema, revise configurações de segurança e acompanhe seu computador.<br>Com o HyperBoost PRO+, tenha mais controle sobre ajustes competitivos e perfis de jogos.</p>
+  <p><strong>Otimize, limpe e cuide do seu Windows com ferramentas avançadas e gratuitas.</strong></p>
+  <p>Um otimizador para Windows que reúne limpeza, diagnóstico e revisão de segurança.<br>Com o HyperBoost PRO+, tenha mais controle sobre ajustes competitivos e perfis de jogos.</p>
   <p><strong>Windows</strong> · Limpeza · Diagnóstico · Segurança · Jogos</p>
-  <p><a href="#visao-geral">Visão geral</a> · <a href="#hyperboost-pro">Conheça o HYPERBOOST PRO+</a> · <a href="https://github.com/brundevs/HyperBoost/issues/new?template=improvement.yml">Sugira melhorias</a> · <a href="https://github.com/brundevs/HyperBoost/issues/new?template=bug.yml">Reporte um problema</a></p>
+  <p><a href="#visao-geral">Visão geral</a> · <a href="#hyperboost-pro">Conheça o HYPERBOOST PRO+</a> · <a href="https://github.com/brundevs/HyperBoost/issues/new?template=improvement.yml">Sugira melhorias</a> · <a href="https://github.com/brundevs/HyperBoost/issues/new?template=bug.yml">Reporte um problema</a> · <a href="https://www.instagram.com/hyperboost.app/">Instagram</a> · <a href="https://www.tiktok.com/@hyperboost.app">TikTok</a></p>
 </div>
 
 ![Visão geral do HyperBoost em modo Escuro com paleta Preto](assets/hyperboost-overview.png)
@@ -14,12 +14,12 @@
 <a id="visao-geral"></a>
 ## Seu computador, com mais controle
 
-O HyperBoost reúne ferramentas de manutenção, diagnóstico e configuração em um painel para Windows. Veja o que está acontecendo, revise as alterações e preserve um caminho de volta.
+O HyperBoost é um otimizador para Windows que reúne ferramentas de manutenção, diagnóstico e configuração em um único painel. Veja o que está acontecendo, revise as alterações e preserve um caminho de volta.
 
 | O que você quer fazer? | Como o HyperBoost ajuda |
 | --- | --- |
 | **Liberar espaço e organizar arquivos** | Limpeza do sistema, análise de disco e ferramentas para encontrar duplicados, arquivos grandes e pastas vazias. |
-| **Entender o desempenho do PC** | Inventário de hardware, sensores reais e acompanhamento de processador, memória, GPU e atividade das unidades. Leituras dependem do suporte do hardware e das permissões. |
+| **Entender o desempenho do PC** | Inventário de hardware, sensores reais e acompanhamento de processador, memória, GPU e atividade das unidades. |
 | **Revisar a segurança do Windows** | Consulte configurações e recursos de proteção do sistema, com disponibilidade e estados apresentados para revisão. |
 | **Conhecer sua conexão e seus periféricos** | Teste de Internet com velocidade, latência e avaliações explicativas; testes de teclado, mouse, controle, áudio e monitor. |
 | **Revisar e recuperar alterações** | Histórico, backups e ferramentas de recuperação para as operações que oferecem restauração. |
@@ -38,14 +38,12 @@ Prepare seu ambiente de jogo com ajustes que você pode revisar e perfis organiz
 
 <div align="center">
   <h3>HYPERBOOST PRO+ · R$ 19,90/mês</h3>
-  <p><strong>Mais controle para jogar.</strong></p>
+  <p><strong>Mais controle para jogar. Otimize seu PC para buscar mais FPS e estabilidade nos jogos.</strong></p>
   <p><strong>Assinaturas em breve</strong></p>
   <p><a href="https://github.com/brundevs/HyperBoost/discussions/categories/announcements">Acompanhe as novidades e o lançamento</a></p>
 </div>
 
 Uma assinatura permite **um computador ativo**, com transferência explícita da ativação. A autorização offline dura **até 72 horas**, sem ultrapassar o período pago. O acesso será validado pela conta Google ou Discord quando os serviços estiverem disponíveis. Histórico, backups e recuperação permanecem acessíveis após o vencimento.
-
-Os resultados dependem do computador, do Windows, da conexão e do jogo. O HyperBoost não garante aumento de FPS ou de velocidade da Internet e não substitui um antivírus.
 
 ## Ajude o HyperBoost a evoluir
 
@@ -55,10 +53,14 @@ Os resultados dependem do computador, do Windows, da conexão e do jogo. O Hyper
 - [Reporte um problema](https://github.com/brundevs/HyperBoost/issues/new?template=bug.yml)
 - [Converse com a comunidade](https://github.com/brundevs/HyperBoost/discussions)
 - [Acompanhe os anúncios](https://github.com/brundevs/HyperBoost/discussions/categories/announcements)
+- [Siga no Instagram](https://www.instagram.com/hyperboost.app/)
+- [Siga no TikTok](https://www.tiktok.com/@hyperboost.app)
 
 Ao reportar um problema, informe a versão do HyperBoost e do Windows. Remova informações pessoais antes de anexar capturas ou relatórios.
 
 ## Disponibilidade e atualizações
+
+Os resultados da otimização variam conforme hardware, configurações e jogo.
 
 **Downloads ainda não estão disponíveis nesta página.** Instalador e portátil serão publicados em Releases após a validação correspondente. Consulte [como serão publicadas as versões](RELEASES.md).
 
