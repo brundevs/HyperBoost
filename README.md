@@ -1,42 +1,69 @@
-# HyperBoost
+<div align="center">
+  <img src="assets/hyperboost-white.svg" alt="Logo branca do HyperBoost" width="128" height="128">
+  <h1>HyperBoost</h1>
+  <p><strong>Ferramentas avançadas e gratuitas para limpar, analisar e cuidar do seu Windows.</strong></p>
+  <p>Organize o sistema, revise configurações de segurança e acompanhe seu computador.<br>Com o HyperBoost PRO+, tenha mais controle sobre ajustes competitivos e perfis de jogos.</p>
+  <p><strong>Windows</strong> · Limpeza · Diagnóstico · Segurança · Jogos</p>
+  <p><a href="#visao-geral">Visão geral</a> · <a href="#hyperboost-pro">Conheça o HYPERBOOST PRO+</a> · <a href="https://github.com/brundevs/HyperBoost/issues/new?template=improvement.yml">Sugira melhorias</a> · <a href="https://github.com/brundevs/HyperBoost/issues/new?template=bug.yml">Reporte um problema</a></p>
+</div>
 
-<img src="assets/hyperboost.png" alt="HyperBoost" width="88" />
+![Visão geral do HyperBoost em modo Escuro com paleta Preto](assets/hyperboost-overview.png)
 
-**Mais controle para cuidar do seu PC e preparar seus jogos.**
+<p align="center"><sub>Interface da versão em desenvolvimento. Dados ilustrativos, sem informações pessoais.</sub></p>
 
-Aplicativo para Windows com sensores reais, manutenção, diagnósticos, recuperação e recursos avançados PRO+.
+<a id="visao-geral"></a>
+## Seu computador, com mais controle
 
-## Conheça o HyperBoost
+O HyperBoost reúne ferramentas de manutenção, diagnóstico e configuração em um painel para Windows. Veja o que está acontecendo, revise as alterações e preserve um caminho de volta.
 
-- **Visão geral:** processador, memória, GPU e atividade das unidades.
-- **Manutenção:** limpeza, análise de disco, arquivos duplicados, serviços e programas.
-- **Internet:** velocidade, latência e avaliações explicativas para navegação, jogos, vídeos e chamadas.
-- **Periféricos:** testes de teclado, mouse, controle, áudio e monitor.
-- **Recuperação:** histórico e backups para revisar e restaurar alterações.
-- **HYPERBOOST PRO+:** Modo Competitivo e Meus jogos. R$ 19,90/mês, um computador ativo; login Google ou Discord quando o serviço estiver configurado.
+| O que você quer fazer? | Como o HyperBoost ajuda |
+| --- | --- |
+| **Liberar espaço e organizar arquivos** | Limpeza do sistema, análise de disco e ferramentas para encontrar duplicados, arquivos grandes e pastas vazias. |
+| **Entender o desempenho do PC** | Inventário de hardware, sensores reais e acompanhamento de processador, memória, GPU e atividade das unidades. Leituras dependem do suporte do hardware e das permissões. |
+| **Revisar a segurança do Windows** | Consulte configurações e recursos de proteção do sistema, com disponibilidade e estados apresentados para revisão. |
+| **Conhecer sua conexão e seus periféricos** | Teste de Internet com velocidade, latência e avaliações explicativas; testes de teclado, mouse, controle, áudio e monitor. |
+| **Revisar e recuperar alterações** | Histórico, backups e ferramentas de recuperação para as operações que oferecem restauração. |
 
-## Participe
+**Comece pelas ferramentas gratuitas. Vá além com os recursos competitivos do PRO+.**
 
-Gostou da proposta? **Dê uma estrela** no topo desta página e acompanhe as novidades.
+<a id="hyperboost-pro"></a>
+## Mais controle para jogar com HyperBoost PRO+
 
-- [Reporte um bug](https://github.com/brundevs/HyperBoost/issues/new?template=bug.yml)
+Prepare seu ambiente de jogo com ajustes que você pode revisar e perfis organizados em um só lugar.
+
+| Incluído no PRO+ | O que oferece |
+| --- | --- |
+| **Modo Competitivo** | Ajustes de sistema e de rede para jogos competitivos, com opções compatíveis com o hardware, aplicação individual ou em lote e confirmação antes das alterações. |
+| **Meus jogos** | Perfis de jogos e organização dos executáveis, com configurações por jogo e ações apresentadas para revisão. |
+
+<div align="center">
+  <h3>HYPERBOOST PRO+ · R$ 19,90/mês</h3>
+  <p><strong>Mais controle para jogar.</strong></p>
+  <p><strong>Assinaturas em breve</strong></p>
+  <p><a href="https://github.com/brundevs/HyperBoost/discussions/categories/announcements">Acompanhe as novidades e o lançamento</a></p>
+</div>
+
+Uma assinatura permite **um computador ativo**, com transferência explícita da ativação. A autorização offline dura **até 72 horas**, sem ultrapassar o período pago. O acesso será validado pela conta Google ou Discord quando os serviços estiverem disponíveis. Histórico, backups e recuperação permanecem acessíveis após o vencimento.
+
+Os resultados dependem do computador, do Windows, da conexão e do jogo. O HyperBoost não garante aumento de FPS ou de velocidade da Internet e não substitui um antivírus.
+
+## Ajude o HyperBoost a evoluir
+
+**Gostou da proposta? Dê uma estrela no topo da página e acompanhe o projeto.** Seu feedback ajuda a orientar as próximas versões.
+
 - [Sugira uma melhoria](https://github.com/brundevs/HyperBoost/issues/new?template=improvement.yml)
+- [Reporte um problema](https://github.com/brundevs/HyperBoost/issues/new?template=bug.yml)
 - [Converse com a comunidade](https://github.com/brundevs/HyperBoost/discussions)
+- [Acompanhe os anúncios](https://github.com/brundevs/HyperBoost/discussions/categories/announcements)
 
-Descreva o que aconteceu e sua versão do Windows. Antes de anexar relatórios, remova informações pessoais.
+Ao reportar um problema, informe a versão do HyperBoost e do Windows. Remova informações pessoais antes de anexar capturas ou relatórios.
 
 ## Disponibilidade e atualizações
 
-**Downloads ainda não estão disponíveis nesta página.** Instalador e portátil serão publicados em Releases após a validação correspondente. Este repositório reúne documentação pública e feedback; o código do aplicativo permanece privado.
+**Downloads ainda não estão disponíveis nesta página.** Instalador e portátil serão publicados em Releases após a validação correspondente. Consulte [como serão publicadas as versões](RELEASES.md).
 
-[Como as atualizações serão publicadas](RELEASES.md).
-
-As novidades serão anunciadas nas Discussions e no histórico de versões. Não há garantia de aumento de FPS ou de velocidade de Internet.
-
-## Estado atual
-
-Versão em desenvolvimento: **0.6.23**. A validação física dos testes de monitor e a configuração dos provedores de login e assinatura continuam pendentes. Recursos mostrados em capturas de desenvolvimento não significam disponibilidade comercial.
+Esta é a comunidade pública do HyperBoost. O código do aplicativo permanece privado. A versão em desenvolvimento é **0.6.23**; os provedores de login e assinatura ainda precisam ser configurados. A falha gráfica dos testes de monitor permanece aberta até a validação física. Capturas de desenvolvimento não indicam disponibilidade comercial.
 
 ## Licenças
 
-HyperBoost é um software proprietário. Licenças e atribuições dos componentes utilizados acompanham o aplicativo. A comunidade pública não concede licença sobre o código privado.
+HyperBoost é um software proprietário. Licenças e atribuições dos componentes utilizados acompanham o aplicativo. Este repositório público não concede licença sobre o código privado.
