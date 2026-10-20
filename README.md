@@ -60,11 +60,15 @@ Ao reportar um problema, informe a versão do HyperBoost e do Windows. Remova in
 
 ## Disponibilidade e atualizações
 
-Os resultados da otimização variam conforme hardware, configurações e jogo.
+A **0.6.119** é a primeira versão oficial do HyperBoost para Windows x64.
 
-**Downloads ainda não estão disponíveis nesta página.** Instalador e portátil serão publicados em Releases após a validação correspondente. Consulte [como serão publicadas as versões](RELEASES.md).
+- [Baixar o instalador](https://github.com/brundevs/HyperBoost/releases/download/v0.6.119/HyperBoost-Setup-0.6.119.exe)
+- [Notas da versão e arquivos de verificação](https://github.com/brundevs/HyperBoost/releases/tag/v0.6.119)
+- [Informações sobre as atualizações](RELEASES.md)
 
-Esta é a comunidade pública do HyperBoost. O código do aplicativo permanece privado. A versão em desenvolvimento é **0.6.23**; os provedores de login e assinatura ainda precisam ser configurados. A falha gráfica dos testes de monitor permanece aberta até a validação física. Capturas de desenvolvimento não indicam disponibilidade comercial.
+A atualização preserva as preferências e o histórico existentes. Os resultados da otimização variam conforme hardware, configurações e jogo. A publicação não representa certificação de todos os ajustes em todas as configurações de Windows 10 e 11.
+
+Esta é a comunidade pública do HyperBoost. O código do aplicativo permanece privado.
 
 ## Licenças
 
