@@ -1,23 +1,23 @@
 # Atualizações do HyperBoost
 
-## Primeira versão oficial — 0.6.119
+## Última versão para Windows
 
-[Baixar o instalador para Windows x64](https://github.com/brundevs/HyperBoost/releases/download/v0.6.119/HyperBoost-Setup-0.6.119.exe).
+- [Site oficial e download](https://www.hyperboostapps.com)
+- [Última release estável e instalador](https://github.com/brundevs/HyperBoost/releases/latest)
+- [Histórico de releases](https://github.com/brundevs/HyperBoost/releases)
 
-[Ver a release completa](https://github.com/brundevs/HyperBoost/releases/tag/v0.6.119).
+Esses links acompanham as próximas versões e não ficam presos a um instalador antigo.
 
-Arquivos publicados:
+## Como receber
 
-- `HyperBoost-Setup-0.6.119.exe`: instalador.
-- `HyperBoost-Setup-0.6.119.exe.sha256`: checksum do instalador.
-- `HyperBoost-Setup-0.6.119.exe.blockmap` e `latest.yml`: metadados de atualização da mesma compilação.
+As distribuições instaladas do HyperBoost consultam atualizações ao abrir e, por padrão, a cada quatro horas. Também é possível consultar manualmente pelas opções de atualização do aplicativo. A oferta não depende de conta Pro.
 
-SHA-256 do instalador:
+Download automático e reinício respeitam as preferências do usuário. O aplicativo mantém as verificações de operações e partidas antes de instalar. Computadores offline ou com o aplicativo fechado recebem a oferta quando voltam a consultar.
 
-`6d19ba568fb4964175630b65a9e7a9e0ab3bd92400943aba16aab46c4e87ece5`
+Cada atualização usa um número superior ao instalado. A versão 1.0.2 pode ser oferecida a quem usa 1.0.1; substituir os arquivos de uma versão 1.0.1 não cria uma atualização para quem já usa esse número.
 
-A atualização mantém o histórico e as preferências existentes. Esta release contém o mesmo instalador verificado localmente. Não há versão portátil publicada nesta release.
+## Arquivos e integridade
 
-As releases de desenvolvimento anteriores foram removidas. O histórico do Git foi preservado, e o código-fonte permanece no repositório privado.
+Cada release inclui o instalador, seu arquivo `.blockmap`, o manifesto `latest.yml`, os dados da compilação e a lista de hashes SHA-256. Os nomes identificam a versão correspondente. Consulte os arquivos da própria release para conferir o instalador baixado.
 
-A publicação não representa certificação de todos os ajustes em todas as configurações de Windows 10 e 11.
+As publicações mantêm os instaladores de versões anteriores no histórico. O código-fonte do aplicativo permanece no repositório privado.
