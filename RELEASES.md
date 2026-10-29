@@ -1,23 +1,39 @@
 # Atualizações do HyperBoost
 
-## Última versão para Windows
+## Baixe sempre a última versão
 
-- [Site oficial e download](https://www.hyperboostapps.com)
-- [Última release estável e instalador](https://github.com/brundevs/HyperBoost/releases/latest)
-- [Histórico de releases](https://github.com/brundevs/HyperBoost/releases)
+- [Última versão estável para Windows](https://github.com/brundevs/HyperBoost/releases/latest)
+- [Site oficial](https://www.hyperboostapps.com)
+- [Notas e histórico de versões](https://github.com/brundevs/HyperBoost/releases)
 
-Esses links acompanham as próximas versões e não ficam presos a um instalador antigo.
+Na release, escolha **HyperBoost-Setup** com extensão **.exe**. O nome do arquivo inclui a versão. Os links acima acompanham as próximas publicações.
 
-## Como receber
+## Atualização pelo aplicativo
 
-As distribuições instaladas do HyperBoost consultam atualizações ao abrir e, por padrão, a cada quatro horas. Também é possível consultar manualmente pelas opções de atualização do aplicativo. A oferta não depende de conta Pro.
+O HyperBoost instalado consulta atualizações ao abrir e, por padrão, a cada quatro horas. Você também pode verificar manualmente nas opções de atualização do aplicativo. A oferta está disponível para contas gratuitas e Pro.
 
-Download automático e reinício respeitam as preferências do usuário. O aplicativo mantém as verificações de operações e partidas antes de instalar. Computadores offline ou com o aplicativo fechado recebem a oferta quando voltam a consultar.
+Quando há uma versão nova, o aplicativo mostra as melhorias e permite iniciar a atualização. O download automático respeita suas preferências. Antes de instalar, o HyperBoost confere operações em andamento e recuperações pendentes.
 
-Cada atualização usa um número superior ao instalado. A versão 1.0.2 pode ser oferecida a quem usa 1.0.1; substituir os arquivos de uma versão 1.0.1 não cria uma atualização para quem já usa esse número.
+Se o aplicativo estiver fechado ou o computador estiver offline, a oferta aparecerá quando ele voltar a consultar. Quem pulou uma versão recebe a versão estável mais recente disponível.
 
-## Arquivos e integridade
+Suas configurações e seu histórico são preservados durante a atualização. O instalador pode pedir autorização de administrador no Windows.
 
-Cada release inclui o instalador, seu arquivo `.blockmap`, o manifesto `latest.yml`, os dados da compilação e a lista de hashes SHA-256. Os nomes identificam a versão correspondente. Consulte os arquivos da própria release para conferir o instalador baixado.
+## Arquivos de cada versão
 
-As publicações mantêm os instaladores de versões anteriores no histórico. O código-fonte do aplicativo permanece no repositório privado.
+| Arquivo | Para que serve |
+| --- | --- |
+| **HyperBoost-Setup-VERSÃO.exe** | Instalador para Windows 10 e 11, 64 bits. |
+| **.blockmap** | Arquivo auxiliar usado pelo atualizador do aplicativo. |
+| **latest.yml** | Identifica a versão, o instalador e as notas de atualização. |
+| **HyperBoost-VERSÃO-SHA256SUMS.txt** | Lista os códigos SHA-256 para conferir a integridade dos arquivos. |
+| **HyperBoost-VERSÃO-release.json** | Registra a identificação da compilação e do instalador publicado. |
+
+Para instalar normalmente, você só precisa baixar o **.exe**. Os demais arquivos atendem ao atualizador e à conferência da distribuição.
+
+Cada nova publicação usa um número de versão maior. Versões anteriores continuam no histórico; seus instaladores não são substituídos pelos arquivos de outra versão.
+
+## Se precisar de ajuda
+
+Consulte o [suporte](https://www.hyperboostapps.com/suporte?lang=pt) ou entre no [Discord oficial](https://discord.gg/wZn9XebX5B). Informe a versão instalada e a mensagem apresentada. Não publique senhas, tokens ou relatórios com dados pessoais.
+
+Este repositório distribui o aplicativo e sua documentação. O código-fonte do HyperBoost permanece privado.

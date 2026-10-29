@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Perguntas e comentários
-    url: https://github.com/brundevs/HyperBoost/discussions
-    about: Converse com a comunidade HyperBoost.
+  - name: Suporte HyperBoost
+    url: https://www.hyperboostapps.com/suporte?lang=pt
+    about: Encontre respostas e os canais oficiais de suporte.
+  - name: Perguntas frequentes
+    url: https://www.hyperboostapps.com/faq?lang=pt
+    about: Tire dúvidas sobre instalação, planos, jogos e recuperação.
+  - name: Comunidade no Discord
+    url: https://discord.gg/wZn9XebX5B
+    about: Entre no servidor oficial HyperBoost.app.

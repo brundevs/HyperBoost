@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">HyperBoost</title>
+  <desc id="desc">Seu Windows pronto para jogar. Otimização, manutenção e monitoramento para Windows 10 e 11.</desc>
+  <rect x="1" y="1" width="1198" height="298" rx="24" fill="#111214" stroke="#363940" stroke-width="2"/>
+  <rect x="42" y="42" width="1116" height="216" rx="18" fill="#25282e"/>
+  <path transform="translate(84 87) scale(4.2)" d="M0 6 6 0h4v12h3v6h-3v12H0Zm20-6h10v24l-6 6h-4V18h-3v-6h3Z" fill="#e8e9ed"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="252" y="118" fill="#a5aab4" font-size="15" font-weight="600" letter-spacing="3">WINDOWS 10 E 11</text>
+    <text x="248" y="177" fill="#f1f2f5" font-size="56" font-weight="700" letter-spacing="-1">HyperBoost</text>
+    <text x="252" y="215" fill="#b5bac4" font-size="24">Seu Windows pronto para jogar.</text>
+  </g>
+  <rect x="941" y="85" width="172" height="44" rx="12" fill="#30343b" stroke="#484d57"/>
+  <text x="1027" y="113" fill="#e8e9ed" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600" text-anchor="middle">VERSÃO ESTÁVEL</text>
+</svg>
