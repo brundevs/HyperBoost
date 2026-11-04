@@ -17,9 +17,11 @@
 
 O HyperBoost reúne ferramentas para otimizar, limpar e acompanhar o Windows 10 e 11. Comece pelas ferramentas gratuitas ou use os perfis e ajustes do **HyperBoost Pro** para preparar suas partidas.
 
-![Tela Início do HyperBoost, com monitoramento e acesso às ferramentas](assets/hyperboost-home.png)
+![Tela Início do HyperBoost, com monitoramento e acesso às ferramentas](assets/screens/1.0.10/home.webp)
 
-<sub>Interface da linha 1.0. Captura de demonstração com leituras ilustrativas.</sub>
+<sub>HyperBoost 1.0.10 · Captura real do aplicativo.</sub>
+
+[Conheça todas as ferramentas, com imagens e explicações](docs/ferramentas.md).
 
 ## O que você encontra no aplicativo
 
@@ -38,9 +40,9 @@ A disponibilidade de cada ajuste depende do Windows, do hardware e dos drivers. 
 <details>
 <summary><strong>Veja o Modo Jogo</strong></summary>
 
-![Modo Jogo do HyperBoost, com perfis e ações configuráveis](assets/hyperboost-game-mode.png)
+![Modo Jogo do HyperBoost, com perfis e ações configuráveis](assets/screens/1.0.10/games.webp)
 
-<sub>Captura de demonstração da linha 1.0.</sub>
+<sub>HyperBoost 1.0.10 · Captura real do aplicativo.</sub>
 
 </details>
 
