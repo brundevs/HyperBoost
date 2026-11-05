@@ -24,7 +24,7 @@ Prepare su PC para su objetivo sin tener que buscar en los menús de configuraci
 <details>
 <summary><strong>Modo Juego</strong> · Pro</summary>
 
-Elige cómo preparar tu PC para jugar y sigue tu sesión. Mantenga juntos los perfiles, la configuración de la sesión y un monitor en pantalla opcional.
+Elige cómo preparar tu PC para jugar y sigue tu sesión. Reúne los perfiles, los ajustes de la partida y un monitor en pantalla opcional.
 
 **Cuándo usarla:** Cuando quieras utilizar un perfil de juego y seguir cómo se comporta tu PC durante una sesión.
 
