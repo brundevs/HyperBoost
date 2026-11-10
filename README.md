@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/hyperboost-banner.svg" alt="HyperBoost — Seu Windows pronto para jogar" width="100%">
   <p>
     <a href="https://github.com/brundevs/HyperBoost/releases/latest"><img src="https://img.shields.io/github/v/release/brundevs/HyperBoost?label=Vers%C3%A3o%20est%C3%A1vel&style=flat&color=454851" alt="Última versão estável"></a>
     <img src="https://img.shields.io/badge/Windows-10%20%7C%2011%20%C2%B7%2064%20bits-454851?style=flat" alt="Windows 10 e 11, 64 bits">
