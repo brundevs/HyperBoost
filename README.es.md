@@ -32,9 +32,9 @@ Compara el resultado con la línea del instalador en el archivo `SHA256SUMS.txt`
 
 ## Pantalla de inicio
 
-![Pantalla de inicio de HyperBoost con monitorización y accesos a las herramientas](assets/screens/1.0.12/es/home-main.webp)
+![Pantalla de inicio de HyperBoost con monitorización y accesos a las herramientas](assets/screens/1.0.10/es/home-r3.webp)
 
-<sub>HyperBoost 1.0.12 · Pantalla de inicio después del análisis del PC.</sub>
+<sub>HyperBoost 1.0.10 · Pantalla de inicio.</sub>
 
 ## Modo Juego
 

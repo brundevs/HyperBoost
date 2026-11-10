@@ -32,9 +32,9 @@ Compare o resultado com a linha desse instalador no arquivo `SHA256SUMS.txt` pub
 
 ## Tela inicial
 
-![Tela Início do HyperBoost, com monitoramento e acesso às ferramentas](assets/screens/1.0.12/pt/home-main.webp)
+![Tela Início do HyperBoost, com monitoramento e acesso às ferramentas](assets/screens/1.0.10/pt/home-r3.webp)
 
-<sub>HyperBoost 1.0.12 · Tela inicial após a análise do PC.</sub>
+<sub>HyperBoost 1.0.10 · Tela inicial do aplicativo.</sub>
 
 ## Modo Jogo
 

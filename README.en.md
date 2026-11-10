@@ -32,9 +32,9 @@ Compare the result with the installer’s entry in the `SHA256SUMS.txt` file att
 
 ## Home screen
 
-![HyperBoost Home screen with monitoring and shortcuts to tools](assets/screens/1.0.12/en/home-main.webp)
+![HyperBoost Home screen with monitoring and shortcuts to tools](assets/screens/1.0.10/en/home-r3.webp)
 
-<sub>HyperBoost 1.0.12 · Home screen after a PC analysis.</sub>
+<sub>HyperBoost 1.0.10 · Home screen.</sub>
 
 ## Game Mode
 
