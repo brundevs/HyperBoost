@@ -6,7 +6,7 @@ Otimize seu PC para jogar, limpe o Windows e acompanhe o desempenho em um só lu
 
 **[Baixar o instalador oficial (.exe)](https://www.hyperboostapps.com/api/download?redirect=1)**
 
-Windows 10 e 11, 64 bits · Comece grátis, sem conta.
+[![Versão estável](https://img.shields.io/github/v/release/brundevs/HyperBoost?label=Vers%C3%A3o%20est%C3%A1vel&style=flat&color=454851)](https://github.com/brundevs/HyperBoost/releases/latest) ![Windows 10 e 11, 64 bits](https://img.shields.io/badge/Windows-10%20%7C%2011%20%C2%B7%2064%20bits-454851?style=flat) ![Comece grátis, sem conta](https://img.shields.io/badge/Comece%20gr%C3%A1tis%2C%20sem%20conta-454851?style=flat)
 
 [Notas da versão e checksums SHA-256](https://github.com/brundevs/HyperBoost/releases/latest#release-assets) · [Site oficial](https://www.hyperboostapps.com)
 
