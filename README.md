@@ -1,5 +1,7 @@
 # <img src="assets/logo.svg" alt="" width="32" height="32" valign="middle"> HyperBoost
 
+**Português (Brasil)** · [English](README.en.md) · [Español](README.es.md)
+
 Otimize seu PC para jogar, limpe o Windows e acompanhe o desempenho em um só lugar. Revise cada ajuste antes de aplicar e use a Recuperação para desfazer alterações compatíveis.
 
 ## Baixar para Windows
@@ -38,9 +40,9 @@ Compare o resultado com a linha desse instalador no arquivo `SHA256SUMS.txt` pub
 
 **Incluído no Pro e no Founder.** Escolha um perfil e ative a detecção automática. Ao abrir um jogo compatível, o HyperBoost aplica as ações que você escolheu para a partida. Ao encerrar o jogo, ele restaura as ações temporárias que oferecem recuperação.
 
-![Tela principal do Modo Jogo do HyperBoost, com perfis e ajustes para a partida](assets/screens/1.0.12/pt/games-main.webp)
+![Demonstração do Modo Jogo em quatro etapas: escolha do perfil, ativação da detecção, partida e encerramento](assets/screens/1.0.12/pt/game-mode-demo.gif)
 
-<sub>HyperBoost 1.0.12 · Tela principal do Modo Jogo.</sub>
+<sub>Demonstração da interface do HyperBoost 1.0.12 · 12 segundos · Sessão ilustrativa.</sub>
 
 O monitor é opcional e começa desligado. Quando a captura é compatível com o jogo, ele permite acompanhar FPS e uso de recursos. [Veja como configurar o Modo Jogo](https://www.hyperboostapps.com/ferramentas/modo-jogo?lang=pt).
 
