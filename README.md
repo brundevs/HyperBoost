@@ -4,18 +4,24 @@ Otimize seu PC para jogar, limpe o Windows e acompanhe o desempenho em um só lu
 
 ## Baixar para Windows
 
-**[Baixar o instalador oficial (.exe) — v1.0.12](https://github.com/brundevs/HyperBoost/releases/download/v1.0.12/HyperBoost-Setup-1.0.12.exe)**
+**[Baixar o instalador oficial (.exe)](https://www.hyperboostapps.com/api/download?redirect=1)**
 
 Windows 10 e 11, 64 bits · Comece grátis, sem conta.
 
-[Versão estável mais recente e notas da versão](https://github.com/brundevs/HyperBoost/releases/latest) · [Checksums SHA-256 da v1.0.12](https://github.com/brundevs/HyperBoost/releases/download/v1.0.12/HyperBoost-1.0.12-SHA256SUMS.txt) · [Site oficial](https://www.hyperboostapps.com)
+[Notas da versão e checksums SHA-256](https://github.com/brundevs/HyperBoost/releases/latest#release-assets) · [Site oficial](https://www.hyperboostapps.com)
 
-Para verificar o instalador, execute `Get-FileHash .\HyperBoost-Setup-1.0.12.exe -Algorithm SHA256` no PowerShell, na pasta do download. Compare o resultado com o hash do instalador no arquivo de checksums.
+Para verificar o instalador, abra o PowerShell na pasta do download e execute `Get-FileHash -Algorithm SHA256 -Path .\HyperBoost-Setup-*.exe`. Compare o resultado do arquivo baixado com a linha correspondente no `SHA256SUMS.txt` da mesma versão.
 
 1. Execute o instalador. O Windows solicitará permissão de administrador.
 2. Abra o HyperBoost, siga a introdução e aguarde a confirmação do ponto de restauração. Se aparecer um erro, confira a orientação do aplicativo antes de continuar.
 
 O aplicativo verifica atualizações e preserva suas configurações e seu histórico. O download e o reinício respeitam suas preferências e as operações em andamento. [Como atualizar](RELEASES.md).
+
+## Tela inicial
+
+![Tela Início do HyperBoost, com monitoramento e acesso às ferramentas](assets/screens/1.0.10/pt/home-r3.webp)
+
+<sub>HyperBoost 1.0.10 · Tela inicial do aplicativo.</sub>
 
 ## Modo Jogo
 
@@ -40,15 +46,6 @@ A disponibilidade dos ajustes depende do Windows, do hardware e dos drivers. Lim
 ## Guias das ferramentas
 
 Veja as capturas e saiba quando usar cada recurso. [Português](docs/ferramentas.md) · [English](docs/tools.en.md) · [Español](docs/herramientas.es.md)
-
-<details>
-<summary>Veja a tela inicial do HyperBoost</summary>
-
-![Tela Início do HyperBoost, com monitoramento e acesso às ferramentas](assets/screens/1.0.10/pt/home-r3.webp)
-
-<sub>HyperBoost 1.0.10 · Tela inicial do aplicativo.</sub>
-
-</details>
 
 ## Ajuda e comunidade
 
