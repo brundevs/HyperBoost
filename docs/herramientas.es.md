@@ -2,7 +2,7 @@
 
 [Português](ferramentas.md) · [English](tools.en.md) · [Español](herramientas.es.md)
 
-Capturas reales de HyperBoost 1.0.10. La disponibilidad depende del hardware, los controladores y Windows. Los identificadores de la cuenta están ocultos; la foto se incluye con autorización.
+Capturas reales de HyperBoost 1.0.10 y 1.0.12. La disponibilidad depende del hardware, los controladores y Windows. Los identificadores de la cuenta están ocultos; la foto se incluye con autorización.
 
 [Explorar todas las herramientas](https://www.hyperboostapps.com/ferramentas?lang=es)
 
@@ -24,13 +24,13 @@ Prepare su PC para su objetivo sin tener que buscar en los menús de configuraci
 <details>
 <summary><strong>Modo Juego</strong> · Pro</summary>
 
-Elige cómo preparar tu PC para jugar y sigue tu sesión. Reúne los perfiles, los ajustes de la partida y un monitor en pantalla opcional.
+El Modo Juego detecta juegos compatibles y aplica el perfil elegido al iniciarlos. El monitor es opcional y muestra los FPS y el uso de recursos cuando la captura está disponible.
 
-**Cuándo usarla:** Cuando quieras utilizar un perfil de juego y seguir cómo se comporta tu PC durante una sesión.
+**Cuándo usarla:** Cuando quieras preparar el PC automáticamente al iniciar un juego y seguir el rendimiento de la sesión.
 
-![Modo Juego](../assets/screens/1.0.10/es/games-r3.webp)
+![Modo Juego](../assets/screens/1.0.12/es/games-main.webp)
 
-Configuración del monitor en pantalla.
+<sub>HyperBoost 1.0.12 · Pantalla principal del Modo Juego.</sub>
 
 [Ver la guía y las preguntas](https://www.hyperboostapps.com/ferramentas/modo-juego?lang=es)
 

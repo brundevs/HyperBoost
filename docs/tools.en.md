@@ -2,7 +2,7 @@
 
 [Português](ferramentas.md) · [English](tools.en.md) · [Español](herramientas.es.md)
 
-Real HyperBoost 1.0.10 captures. Availability depends on your hardware, drivers and Windows. Account identifiers are hidden; the account photo is included with permission.
+Real screenshots from HyperBoost 1.0.10 and 1.0.12. Availability depends on your hardware, drivers and Windows. Account identifiers are hidden; the account photo is included with permission.
 
 [Explore all tools](https://www.hyperboostapps.com/ferramentas?lang=en)
 
@@ -24,13 +24,13 @@ Prepare your PC for your goal without hunting through settings menus. PC Boost b
 <details>
 <summary><strong>Game Mode</strong> · Pro</summary>
 
-Choose how to prepare your PC for gaming and follow your session. Keep profiles, session settings and an optional on-screen monitor together.
+Game Mode detects supported games and applies your chosen profile when they launch. The optional monitor tracks FPS and resource use when capture is available.
 
-**When to use:** When you want to use a gaming profile and follow how your PC behaves during a session.
+**When to use:** When you want to prepare your PC automatically as a game launches and track how the session performs.
 
-![Game Mode](../assets/screens/1.0.10/en/games-r3.webp)
+![Game Mode](../assets/screens/1.0.12/en/games-main.webp)
 
-On-screen monitor settings.
+<sub>HyperBoost 1.0.12 · Main Game Mode screen.</sub>
 
 [See the guide and questions](https://www.hyperboostapps.com/ferramentas/game-mode?lang=en)
 

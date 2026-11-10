@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+<title id="title">HyperBoost</title>
+<rect x="1" y="1" width="126" height="126" rx="28" fill="#0c0d0f" stroke="#303238" stroke-width="2"/>
+<path transform="translate(28 28) scale(2.4)" d="M0 6 6 0h4v12h3v6h-3v12H0Zm20-6h10v24l-6 6h-4V18h-3v-6h3Z" fill="#fff"/>
+</svg>
