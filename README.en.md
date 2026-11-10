@@ -34,15 +34,15 @@ Compare the result with the installer’s entry in the `SHA256SUMS.txt` file att
 
 ![HyperBoost Home screen with monitoring and shortcuts to tools](assets/screens/1.0.12/en/home-main.webp)
 
-<sub>HyperBoost 1.0.12 · Home screen.</sub>
+<sub>HyperBoost 1.0.12 · Home screen after a PC analysis.</sub>
 
 ## Game Mode
 
 **Included with Pro and Founder.** Choose a profile and turn on automatic detection. When a supported game launches, HyperBoost applies your chosen actions. When you exit the game, it restores temporary changes that support recovery.
 
-![Four-step Game Mode demo: choose a profile, enable detection, start a game, and exit](assets/screens/1.0.12/en/game-mode-demo.gif)
+![Game Mode during a detected VALORANT match, showing the active session profile](assets/screens/1.0.12/en/games-main.webp)
 
-<sub>HyperBoost 1.0.12 interface demo · 12 seconds · Illustrative session.</sub>
+<sub>HyperBoost 1.0.12 · Game Mode during a VALORANT match.</sub>
 
 The optional overlay is off by default. When capture is supported for your game, you can use it to track FPS and resource usage. [Learn how to set up Game Mode](https://www.hyperboostapps.com/ferramentas/game-mode?lang=en).
 

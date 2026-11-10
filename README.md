@@ -34,15 +34,15 @@ Compare o resultado com a linha desse instalador no arquivo `SHA256SUMS.txt` pub
 
 ![Tela Início do HyperBoost, com monitoramento e acesso às ferramentas](assets/screens/1.0.12/pt/home-main.webp)
 
-<sub>HyperBoost 1.0.12 · Tela inicial do aplicativo.</sub>
+<sub>HyperBoost 1.0.12 · Tela inicial após a análise do PC.</sub>
 
 ## Modo Jogo
 
 **Incluído no Pro e no Founder.** Escolha um perfil e ative a detecção automática. Ao abrir um jogo compatível, o HyperBoost aplica as ações que você escolheu para a partida. Ao encerrar o jogo, ele restaura as ações temporárias que oferecem recuperação.
 
-![Demonstração do Modo Jogo em quatro etapas: escolha do perfil, ativação da detecção, partida e encerramento](assets/screens/1.0.12/pt/game-mode-demo.gif)
+![Modo Jogo durante uma partida detectada de VALORANT, com o perfil da sessão visível](assets/screens/1.0.12/pt/games-main.webp)
 
-<sub>Demonstração da interface do HyperBoost 1.0.12 · 12 segundos · Sessão ilustrativa.</sub>
+<sub>HyperBoost 1.0.12 · Modo Jogo durante uma partida de VALORANT.</sub>
 
 O monitor é opcional e começa desligado. Quando a captura é compatível com o jogo, ele permite acompanhar FPS e uso de recursos. [Veja como configurar o Modo Jogo](https://www.hyperboostapps.com/ferramentas/modo-jogo?lang=pt).
 
