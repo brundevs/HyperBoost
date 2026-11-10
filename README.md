@@ -8,20 +8,31 @@ Otimize seu PC para jogar, limpe o Windows e acompanhe o desempenho em um só lu
 
 [![Versão estável](https://img.shields.io/github/v/release/brundevs/HyperBoost?label=Vers%C3%A3o%20est%C3%A1vel&style=flat&color=454851)](https://github.com/brundevs/HyperBoost/releases/latest) ![Windows 10 e 11, 64 bits](https://img.shields.io/badge/Windows-10%20%7C%2011%20%C2%B7%2064%20bits-454851?style=flat) ![Comece grátis, sem conta](https://img.shields.io/badge/Comece%20gr%C3%A1tis%2C%20sem%20conta-454851?style=flat)
 
-[Notas da versão e checksums SHA-256](https://github.com/brundevs/HyperBoost/releases/latest#release-assets) · [Site oficial](https://www.hyperboostapps.com)
-
-Para verificar o instalador, abra o PowerShell na pasta do download e execute `Get-FileHash -Algorithm SHA256 -Path .\HyperBoost-Setup-*.exe`. Compare o resultado do arquivo baixado com a linha correspondente no `SHA256SUMS.txt` da mesma versão.
+[Notas da versão](https://github.com/brundevs/HyperBoost/releases/latest) · [Site oficial](https://www.hyperboostapps.com) · [Suporte](#suporte)
 
 1. Execute o instalador. O Windows solicitará permissão de administrador.
 2. Abra o HyperBoost, siga a introdução e aguarde a confirmação do ponto de restauração. Se aparecer um erro, confira a orientação do aplicativo antes de continuar.
 
 O aplicativo verifica atualizações e preserva suas configurações e seu histórico. O download e o reinício respeitam suas preferências e as operações em andamento. [Como atualizar](RELEASES.md).
 
+<details>
+<summary>Verificar o instalador com SHA-256 (opcional)</summary>
+
+Na pasta do download, abra o PowerShell e execute o comando abaixo. Troque `X.Y.Z` pela versão no nome do arquivo que você baixou.
+
+```powershell
+Get-FileHash -Algorithm SHA256 -LiteralPath '.\HyperBoost-Setup-X.Y.Z.exe'
+```
+
+Compare o resultado com a linha desse instalador no arquivo `SHA256SUMS.txt` publicado na [release da mesma versão](https://github.com/brundevs/HyperBoost/releases).
+
+</details>
+
 ## Tela inicial
 
-![Tela Início do HyperBoost, com monitoramento e acesso às ferramentas](assets/screens/1.0.10/pt/home-r3.webp)
+![Tela Início do HyperBoost, com monitoramento e acesso às ferramentas](assets/screens/1.0.12/pt/home-main.webp)
 
-<sub>HyperBoost 1.0.10 · Tela inicial do aplicativo.</sub>
+<sub>HyperBoost 1.0.12 · Tela inicial do aplicativo.</sub>
 
 ## Modo Jogo
 
@@ -35,11 +46,9 @@ O monitor é opcional e começa desligado. Quando a captura é compatível com o
 
 ## Gratuito, Pro e Founder
 
-| Plano | O que está incluído |
-| --- | --- |
-| **Gratuito** | Limpeza de temporários e caches, gerenciamento da inicialização, monitoramento de CPU, memória e disco, teste de internet, diagnóstico de periféricos e recuperação de alterações compatíveis. |
-| **Pro** | Tudo do Gratuito, mais **PC Boost**, **Modo Jogo e biblioteca de jogos**, ajustes de apps e latência, limpeza automática de memória, ajustes de rede e DNS, Tweaks, ajustes do Windows e ferramentas de Hardware e BIOS. Assinatura mensal, trimestral ou anual. |
-| **Founder** | Ferramentas do Gratuito e do Pro com acesso vitalício, em pagamento único, conforme disponibilidade no site. |
+- **Gratuito** · Limpeza, monitoramento, diagnóstico e recuperação de ajustes compatíveis. Você pode começar sem conta.
+- **Pro** · Tudo do Gratuito, mais PC Boost, Modo Jogo e ajustes avançados. Assinatura mensal, trimestral ou anual.
+- **Founder** · Ferramentas do Gratuito e do Pro com acesso vitalício, em pagamento único.
 
 A disponibilidade dos ajustes depende do Windows, do hardware e dos drivers. Limpezas e algumas remoções são irreversíveis. [Compare os planos e consulte os preços da sua região](https://www.hyperboostapps.com/precos?lang=pt).
 
@@ -47,16 +56,17 @@ A disponibilidade dos ajustes depende do Windows, do hardware e dos drivers. Lim
 
 Veja as capturas e saiba quando usar cada recurso. [Português](docs/ferramentas.md) · [English](docs/tools.en.md) · [Español](docs/herramientas.es.md)
 
-## Ajuda e comunidade
+## Suporte
 
-- [Perguntas frequentes](https://www.hyperboostapps.com/faq?lang=pt)
-- [Guia para começar](https://www.hyperboostapps.com/como-usar?lang=pt)
-- [Suporte oficial](https://www.hyperboostapps.com/suporte?lang=pt)
-- [Comunidade no Discord](https://discord.gg/wZn9XebX5B)
-- [Avaliações de usuários](https://www.hyperboostapps.com/avaliacoes?lang=pt)
-- [Sugerir uma melhoria](https://github.com/brundevs/HyperBoost/issues/new?template=improvement.yml)
+**[Acessar o suporte oficial do HyperBoost](https://www.hyperboostapps.com/suporte?lang=pt)**
 
-Para uma falha no aplicativo, use **Reportar erro** na notificação: contas grátis e Pro conectadas podem revisar o relato antes de enviá-lo ao suporte. Você também pode [abrir um problema público](https://github.com/brundevs/HyperBoost/issues/new?template=bug.yml) neste repositório. Informe as versões do HyperBoost e do Windows e não publique senhas, tokens ou dados pessoais.
+Se aparecer uma falha no aplicativo, use **Reportar erro** na notificação. Com uma conta conectada, você pode revisar o relato antes de enviá-lo. Também é possível [reportar um problema público no GitHub](https://github.com/brundevs/HyperBoost/issues/new?template=bug.yml). Informe as versões do HyperBoost e do Windows e remova dados pessoais antes de publicar.
+
+[Guia para começar](https://www.hyperboostapps.com/como-usar?lang=pt) · [Perguntas frequentes](https://www.hyperboostapps.com/faq?lang=pt)
+
+## Comunidade
+
+[Discord](https://discord.gg/wZn9XebX5B) · [Avaliações de usuários](https://www.hyperboostapps.com/avaliacoes?lang=pt) · [Sugerir uma melhoria](https://github.com/brundevs/HyperBoost/issues/new?template=improvement.yml)
 
 ## Sobre este repositório
 
